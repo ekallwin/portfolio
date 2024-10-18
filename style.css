@@ -160,7 +160,7 @@ h1, h3{
 .up_arrow {
     position: fixed;
     bottom: 20px;
-    left: 10px;
+    right: 10px;
     display: none; /* Hidden by default */
     cursor: pointer;
     z-index: 1000;
