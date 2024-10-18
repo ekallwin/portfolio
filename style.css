@@ -129,15 +129,12 @@ h1, h3{
     color: black;
 }
 #contact_btn{
-        justify-content: center;
-        margin: 6%;
+        margin: 2px;
         font-size: 20px;
         text-decoration: none;
         cursor: pointer;
         padding: 20px;
         font-family: inherit;
-        /* text-shadow: none; */
-        /* user-select: none; */
         transition: all,.1s,ease-in;          
         color: #FFFFFF;
 }
