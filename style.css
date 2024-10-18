@@ -123,11 +123,11 @@ h1, h3{
     color: black;
 }
 #contact_btn{
-        margin: 16px;
+        justify-content: center;
+        margin: 6%;
         font-size: 20px;
         text-decoration: none;
         cursor: pointer;
-        display: inline-block;
         padding: 20px;
         font-family: inherit;
         /* text-shadow: none; */
@@ -157,7 +157,7 @@ h1, h3{
 .up_arrow {
     position: fixed;
     bottom: 20px;
-    right: 10px;
+    left: 10px;
     display: none; /* Hidden by default */
     cursor: pointer;
     z-index: 1000;
@@ -206,7 +206,8 @@ figure img {
 }
 .social_icon {
     display: flex;
-    margin-left: 10px;
+    justify-content: center;
+    /* margin-left: 10px; */
 }
 .social_icon a{
     margin: 8px;
