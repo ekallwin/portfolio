@@ -15,3 +15,7 @@ document.addEventListener("DOMContentLoaded", function() {
     });
     
     });
+
+function Resume_download(){
+    alert(`Comimg soon!`)
+}
