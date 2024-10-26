@@ -22,11 +22,14 @@ body {
     z-index: -1;
 }
 .navbar-brand {
-    font-size: 30px;
+    font-size: 25px;
 }
 .nav-item,.dropdown-item{
     padding: 10px;
-    margin: 5px 5px 5px 5px;
+}
+.nav-item{
+     /* margin: 1px 5px 5px 5px; */
+     justify-content: center;
 }
 .nav-item.dropdown:hover .dropdown-menu {
     display: block;
@@ -38,9 +41,9 @@ nav {
     color: black;
     text-align: center;
     font-family: Arial, sans-serif;
-    font-size: 25px;
+    font-size: 26px;
     font-weight: bold;
-    background-color: rgba(255, 49, 255, 0.842);
+    background-color: rgba(255, 49, 255, 0.801);
 }
 .dropdown-menu {
     text-align: center;
@@ -52,7 +55,7 @@ nav {
     font-family: Arial, sans-serif;
     font-size: 20px;
     text-align: center;
-    padding: 10px;
+    padding: 5px;
 }
 .dropdown-item:hover{
     text-decoration: underline;
@@ -91,10 +94,8 @@ nav {
     padding: 0px 20px 0px 20px;
     height: fit-content;
     width: fit-content;
-    /* border-radius: 18px; */
     font-size: 35px;
     font-weight: bolder;
-    /* background-color: rgba(255, 255, 255, 0.45); */
     margin-bottom: 5%;
     color: black;
     text-shadow: 0 0 20px #ff9900, 0 0 30px #ff6600, 0 0 40px #ff3300, 0 0 5px #ff0000;
