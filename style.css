@@ -28,8 +28,7 @@ body {
     padding: 10px;
 }
 .nav-item{
-     /* margin: 1px 5px 5px 5px; */
-     justify-content: center;
+     margin-left: 40px;
 }
 .nav-item.dropdown:hover .dropdown-menu {
     display: block;
