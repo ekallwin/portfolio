@@ -25,10 +25,7 @@ body {
     font-size: 25px;
 }
 .nav-item,.dropdown-item{
-    padding: 10px;
-}
-.nav-item{
-     margin-left: 35px;
+    padding: 15px;
 }
 .nav-item.dropdown:hover .dropdown-menu {
     display: block;
@@ -127,6 +124,9 @@ h1, h3{
     transition: 0.9s;
     background: linear-gradient(90deg, #9800E1, #CB0084, #D9006D);
     color: black;
+}
+button:focus{
+    outline: none;
 }
 #contact_btn{
         margin: 2px;
