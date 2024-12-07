@@ -85,6 +85,7 @@ nav {
 }
 .item-name {
     cursor: default;
+    text-align: center;
     opacity: 0;
     animation: item-name-ani 4s ease-out forwards;
     margin: 7%;
@@ -128,7 +129,7 @@ h1, h3{
 }
 button:focus{
     outline: none;
-    color: white;
+    color: inherit;
 }
 .project{
     height: 25% auto;
