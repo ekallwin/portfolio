@@ -119,7 +119,7 @@ h1, h3{
     border-radius: 25px;
     background: linear-gradient(90deg, #D9006D, #CB0084, #9800E1);
 }
-.gradient-button:hover,#contact_btn:hover{
+.gradient-button:hover{
     cursor: pointer;
     transform: scale(1.1);
     transition: 0.9s;
@@ -128,16 +128,6 @@ h1, h3{
 }
 button:focus{
     outline: none;
-}
-#contact_btn{
-        margin: 2px;
-        font-size: 20px;
-        text-decoration: none;
-        cursor: pointer;
-        padding: 20px;
-        font-family: inherit;
-        transition: all,.1s,ease-in;          
-        color: #FFFFFF;
 }
 .project{
     height: 25% auto;
@@ -231,10 +221,6 @@ div .social_icon i:active, div .social_icon_footer i:active {
 .carousel-inner img{
     height: 20%;
     width: 10%;
-}
-#Contact_form{
-    width: 500px;
-    height: 100px;
 }
 footer div{
     background-color: rgba(255, 255, 255, 0.884);
