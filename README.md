@@ -25,7 +25,6 @@ This portfolio website acts as my professional space to showcase my expertise in
 - **Bootstrap 4**: For responsive design and UI components.
 - **JavaScript (ES6+)**: Custom functionality like form handling and smooth scrolling.
 - **Font Awesome**: For social media and interactive icons.
-- **JotForm**: For embedding a contact form to allow visitors to send messages.
 
 ## Setup Instructions
 
