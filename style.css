@@ -210,7 +210,7 @@ figure img {
     justify-content: center;
 }
 .social_icon a,.social_icon a:hover,.social_icon a:active{
-    color: black;
+    color: white;
 }
 div .social_icon i:hover,div .social_icon_footer i:hover {
     transform: scale(1.3);
