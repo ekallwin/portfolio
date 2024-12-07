@@ -87,11 +87,11 @@ nav {
     cursor: default;
     opacity: 0;
     animation: item-name-ani 4s ease-out forwards;
-    margin: 6%;
+    margin: 7%;
     padding: 0px 20px 0px 20px;
     height: fit-content;
     width: fit-content;
-    font-size: 28px;
+    font-size: 30px;
     font-weight: bolder;
     margin-bottom: 5%;
     color: black;
