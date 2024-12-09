@@ -125,7 +125,6 @@ h1, h3{
     transform: scale(1.1);
     transition: 0.9s;
     background: linear-gradient(90deg, #9800E1, #CB0084, #D9006D);
-    color: black;
 }
 button:focus{
     outline: none;
