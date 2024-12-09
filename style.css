@@ -199,6 +199,7 @@ figure img {
     height: 200px;
     border-radius: 100%;
     border: 2px solid black;
+    margin-top: 15px;
 }
 .social_icon {
     display: flex;
