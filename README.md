@@ -10,12 +10,11 @@ This portfolio website acts as my professional space to showcase my expertise in
 ## Features
 
 - **Responsive Design**: Adapts seamlessly to various screen sizes, from desktop to mobile.
-- **Bootstrap Integration**: Quick layout and style setup using Bootstrap 4.
-- **Video Background**: Eye-catching video background on the home section.
+- **Bootstrap Integration**: Quick layout and style setup using Bootstrap 
 - **About Me Section**: Brief overview of my skills, education, and goals.
 - **Project Showcase**: Placeholder for projects with a "Coming Soon" message, where upcoming projects will be listed.
 - **Internships & Certifications**: Detailed list of internships and certificates earned, with a rotating carousel of certificates.
-- **Contact Form**: Integrated with **JotForm** for easy communication with site visitors.
+- **Contact me**: Email address and phone number for contacting me. 
 - **Social Media Links**: Quick access to my profiles on LinkedIn, GitHub, Instagram, Twitter, and Facebook.
 
 ## Technologies Used
