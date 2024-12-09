@@ -12,16 +12,15 @@ body {
     height: 100%;
     overflow-x: hidden;
     overflow-y: auto;
+    user-select: none;
 }
 
-.video-background {
-    position: fixed;
-    top: 0;
-    left: 0;
-    min-width: 100%;
-    min-height: 100%;
-    z-index: -1;
-}
+
+
+
+
+
+
 .navbar-brand {
     font-size: 25px;
 }
@@ -126,9 +125,9 @@ h1, h3{
     transition: 0.9s;
     background: linear-gradient(90deg, #9800E1, #CB0084, #D9006D);
 }
-button:focus{
+.gradient-button:focus{
     outline: none;
-    color: inherit;
+    color: white;
 }
 .project{
     height: 25% auto;
